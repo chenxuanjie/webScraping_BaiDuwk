@@ -22,6 +22,6 @@ def BaiDuwk_getInfo():
 
 if __name__ == '__main__':
     url,file = BaiDuwk_getInfo()
-
+    getgoodgrades
 
 
